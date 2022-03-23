@@ -1,6 +1,6 @@
 {
 	"jwtPrivateKey": "unsecureKey",
-	"db": "mongodb+srv://Sahand:sahandazin2012@vidly.u7pps.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+	"db": "mongodb+srv://Sahand:sahand@vidly.u7pps.mongodb.net/vidly?retryWrites=true&w=majority",
 	"port": "3900",
 	"requiresAuth": true
 }
